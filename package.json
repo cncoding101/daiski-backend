@@ -1,0 +1,14 @@
+{
+  "name": "daiski-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cncoding101/daiski-backend.git",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "jest": "^27.4.3",
+    "mongodb": "^4.2.1",
+    "mongoose": "^6.1.1"
+  }
+}
